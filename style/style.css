@@ -1,0 +1,86 @@
+header {
+    background-color: #B11616;
+    width: auto;
+    height: 134px;
+}
+
+.headerlist {
+    float: left;
+    display: flex;
+
+}
+
+.website-icon {
+    background-color: #700C0C;
+    width: 224px;
+    height: 134px;
+    margin-left: -40px;
+}
+
+.nav-list {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav {
+    margin-left: -40px;
+}
+
+.nav-list-item {
+    float: left;
+    display: flex;
+    padding: 10px;
+    background-color:#D9D9D9;
+    font-size: 1.75rem;
+    border-style: solid;
+    border-width: 0.5px;
+    padding-right: 1px;
+    width: 12rem;
+    text-align: center;
+    color: #000;
+    margin-top: 79px;
+}
+
+.nav-list-item:hover {
+  background-color: #828080;
+}
+
+.div-tekst {
+    background-color: #D9D9D9;
+    width: 800px;
+    height: 800px;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+.div-footerhelp {
+    min-height: 80vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-div-streep {
+    background-color: #B11616;
+    width: auto;
+    height: 75px;
+    border-style: solid;
+    border-width: 1px;
+    border-top:#D9D9D9;
+    border-color: #D9D9D9;
+    border-left: #D9D9D9;
+    border-right: #D9D9D9;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.footer-onderbalk {
+    background-color: #B11616;
+    width: auto;
+    height: 134px;
+    margin-top: auto;
+}
