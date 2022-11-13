@@ -119,6 +119,39 @@ nav {
     width: 500px;
 }
 
+.img-siz-rightside-big {
+    width: 1000px;
+    height: 950px;
+    float: right;
+    margin-top: 85px;
+    margin-right: 85px;
+
+}
+
+.img-siz-rightside-small {
+    width: 1000px;
+    height: 300px;
+    float: right;
+    margin-top: 85px;
+    margin-right: 85px;
+}
+
+.img-siz-rightside-small-alter {
+    width: 1000px;
+    height: 300px;
+    margin-top: 85px;
+   
+}
+  
+
+.img-siz-leftside-small {
+    width: 1000px;
+    height: 300px;
+    float: left;
+    margin-top: 85px;
+    margin-right: 85px;
+}
+
 .div-footerhelp {
     min-height: 100vh;
     display: flex;
